@@ -1,0 +1,22 @@
+total 9
+drwxrwx--- 1 root vboxsf 4096 Sep  4 20:40 .
+drwxrwx--- 1 root vboxsf    0 Sep  4 13:14 ..
+drwxrwx--- 1 root vboxsf 4096 Sep  4 13:29 .git
+drwxrwx--- 1 root vboxsf    0 Sep  4 13:23 ​key​
+-rwxrwx--- 1 root vboxsf    0 Sep  4 20:40 lab01.txt
+drwxrwx--- 1 root vboxsf    0 Sep  4 13:23 ​log​
+-rwxrwx--- 1 root vboxsf    7 Sep  4 13:14 README.md
+drwxrwx--- 1 root vboxsf    0 Sep  4 13:25 ​sandbox
+drwxrwx--- 1 root vboxsf    0 Sep  4 20:39 week00
+drwxrwx--- 1 root vboxsf    0 Sep  4 13:19 week01
+drwxrwx--- 1 root vboxsf    0 Sep  4 13:20 week02
+drwxrwx--- 1 root vboxsf    0 Sep  4 13:20 week03
+drwxrwx--- 1 root vboxsf    0 Sep  4 13:20 week04
+drwxrwx--- 1 root vboxsf    0 Sep  4 13:20 week05
+drwxrwx--- 1 root vboxsf    0 Sep  4 13:20 week06
+drwxrwx--- 1 root vboxsf    0 Sep  4 13:20 week07
+drwxrwx--- 1 root vboxsf    0 Sep  4 13:20 week08​
+drwxrwx--- 1 root vboxsf    0 Sep  4 13:20 ​week09​
+drwxrwx--- 1 root vboxsf    0 Sep  4 13:20 ​week10​
+drwxrwx--- 1 root vboxsf    0 Sep  4 13:20 ​xtra​
+/media/sf_D_DRIVE/OneDrive/Documents/Projects/Computer Science UI/OS Lab/os172/week01

@@ -1,0 +1,2 @@
+Deskripsi singkat tugas week 0 OS:
+Membuat repositori os172 di GitHub, kemudian mengisi form, dan login ke badak.cs.ui.ac.id
