@@ -1,1 +1,3 @@
 #ichlaffterlalu
+
+Mempelajari sistem operasi berguna untuk mengetahui lebih lanjut perihal hubungan hardware dan software. Karena, sistem operasi adalah penghubung keduanya, sekaligus sarana manajemen sumber daya dari hardware tersebut.
