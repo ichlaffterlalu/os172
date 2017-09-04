@@ -1,0 +1,3 @@
+Deskripsi singkat tugas week 1 OS:
+Berlatih command git, penggunaan command line interface seperti cd, rm, touch, ls, dan mv.
+Selain itu, ada latihan scripting.
