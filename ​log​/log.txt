@@ -18,3 +18,15 @@ w01-170904-23-PS-Working on Lab01
 w01-170904-23-PS-Working on Lab01
 w01-170905-00-PS-Working on Lab01
 w01-170905-00-PS-Working on Lab01
+w01-170906-08-LR-Learn Scripting if/else, http://shellscript.sh
+w01-170906-08-LR-Learn Scripting loops, http://shellscript.sh
+w01-170906-09-LR-Learn Scripting variables, http://shellscript.sh
+w01-170906-09-LR-Learn Scripting function, http://shellscript.sh
+w01-170906-23-LR-Learn Scripting recursive, http://shellscript.sh
+w01-170906-23-LR-Learn Scripting recursive, http://shellscript.sh
+w01-170907-00-LR-Learn Regular Expressions, RMS archive
+w01-170907-16-LR-Intellectual Rights (Copyrights etc.), class
+w01-170907-16-LR-If/Else/Case Scripting, class
+w01-170907-17-LR-Loop Scripting, class
+w01-170907-17-LR-Regular Expressions, class
+w01-170908-15-PS-Practicing Git Configurations
