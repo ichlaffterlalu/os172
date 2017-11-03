@@ -1,8 +1,17 @@
-W06-171009-16-LR-About: Memory, From: Lecturer
-W06-171009-16-LR-About: Memory, From: Lecturer
-W06-171009-16-LR-About: Memory, From: Lecturer
-W06-171010-22-PS-Working on Lab05
-W06-171010-22-PS-Working on Lab05
-W06-171011-16-PS-About: Quiz, From: Lecturer
-W06-171011-16-PS-About: Quiz, From: Lecturer
-W06-171011-16-PS-About: Quiz, From: Lecturer
+W06-171026-16-LR-About: Fork, From: Lecturer
+W06-171026-16-LR-About: Fork, From: Lecturer
+W06-171026-17-LR-About: Fork, From: Lecturer
+W06-171026-17-LR-About: Fork, From: Lecturer
+W06-171031-16-LR-About: Fork, From: Lecturer
+W06-171031-16-LR-About: Fork, From: Lecturer
+W06-171031-17-LR-About: Fork, From: Lecturer
+W06-171031-17-LR-About: Fork, From: Lecturer
+W06-171102-16-LR-About: Process and Thread, From: Lecturer
+W06-171102-16-LR-About: Process and Thread, From: Lecturer
+W06-171102-17-LR-About: Process and Thread, From: Lecturer
+W06-171102-17-LR-About: Process and Thread, From: Lecturer
+W06-171104-00-PS-Working on Lab06
+W06-171104-01-PS-Working on Lab06
+W06-171104-01-PS-Working on Lab06
+W06-171104-02-PS-Working on Lab06
+W06-171104-02-PS-Working on Lab06
