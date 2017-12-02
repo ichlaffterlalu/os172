@@ -1,0 +1,7 @@
+Github Account: ichlaffterlalu
+URL Ulasan: http://ichlasulaffan.blogspot.com/2017/12/ulasan-01-why-systemd.html
+URL Video: http://youtu.be/KftuGM_ylKg (durasi 8 menit 15 detik)
+Video Author: BeginLinux Guru
+Pemetaan: week03 (Booting)
+Revisi Pertama: 2 Desember 2017
+Revisi Terakhir: 2 Desember 2017
